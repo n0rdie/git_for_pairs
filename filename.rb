@@ -1,1 +1,1 @@
-name = Quin Nordmark
+name += Name
